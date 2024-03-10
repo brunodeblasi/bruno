@@ -1,0 +1,85 @@
+/* Fonte */
+.lora {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/* Estrutura */
+body {
+    font-family: "Lora", serif;
+    color: #0d0f11;
+    background: #f0f0f0;
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:visited {
+    color: blue;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lora", serif;
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+/* Corpo */
+#container {
+    margin: 0 auto;
+    margin-top: 1em;
+    padding: 0 1em;
+    max-width: 800px;
+}
+
+
+/* Cabeçalho */
+.foto {
+    text-align: center;
+}
+
+.foto img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.social {
+    text-align: center;
+}
+
+.social img {
+    height: 48px;
+    width: 48px;
+}
+
+.social a {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+/* Conteúdo */
+
+/* Rodapé */
+.idioma {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.idioma img {
+    width: 32px;
+    height: 32px;
+}
