@@ -11,7 +11,7 @@ disableShare: false
 hideSummary: false
 ShowBreadCrumbs: true
 cover:
-    image: "/dialup.jpeg" # image path/url
+    image: "/blog/2024/01/ainda-ha-espaco-para-blogs-pessoais-em-2024/dialup.jpeg" # image path/url
     alt: "Captura de tela de um discador" # alt text
     caption: "Captura de tela de um discador" # display caption under cover
     responsiveImages: true	
