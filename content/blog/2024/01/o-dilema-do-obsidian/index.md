@@ -12,7 +12,7 @@ disableShare: false
 hideSummary: false
 ShowBreadCrumbs: true
 cover:
-    image: "pexels-photo-4766367.jpeg" # image path/url
+    image: "/pexels-photo-4766367.jpeg" # image path/url
     alt: "Obsidiana" # alt text
     caption: "Obsidiana" # display caption under cover
     responsiveImages: true	

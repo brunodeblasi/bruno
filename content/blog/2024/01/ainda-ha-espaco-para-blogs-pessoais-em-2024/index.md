@@ -11,7 +11,7 @@ disableShare: false
 hideSummary: false
 ShowBreadCrumbs: true
 cover:
-    image: "dialup.jpg" # image path/url
+    image: "/dialup.jpg" # image path/url
     alt: "Captura de tela de um discador" # alt text
     caption: "Captura de tela de um discador" # display caption under cover
     responsiveImages: true	
