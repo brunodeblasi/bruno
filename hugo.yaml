@@ -3,6 +3,7 @@ title: Bruno De Blasi
 pagination.pagerSize: 10
 theme: ["PaperMod"]
 
+canonifyURLs: true
 defaultContentLanguage: pt
 defaultContentLanguageInSubdir: false
 languages:
