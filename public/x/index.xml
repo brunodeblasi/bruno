@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xes on Bruno De Blasi</title>
+    <link>http://localhost:1313/x/</link>
+    <description>Recent content in Xes on Bruno De Blasi</description>
+    <image>
+      <title>Bruno De Blasi</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pt</language>
+    <lastBuildDate>Sat, 13 Jan 2024 12:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O dilema do Obsidian</title>
+      <link>http://localhost:1313/x/2024/01/o-dilema-do-obsidian/</link>
+      <pubDate>Sat, 13 Jan 2024 12:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/x/2024/01/o-dilema-do-obsidian/</guid>
+      <description>Obsidian é um app de anotações poderoso, mas há grandes poréns</description>
+    </item>
+    <item>
+      <title>Ainda há espaço para blogs pessoais em 2024?</title>
+      <link>http://localhost:1313/x/2024/01/ainda-ha-espaco-para-blogs-pessoais-em-2024/</link>
+      <pubDate>Sun, 07 Jan 2024 12:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/x/2024/01/ainda-ha-espaco-para-blogs-pessoais-em-2024/</guid>
+      <description>Com o avanço das redes sociais, ainda há quem leia blogs em 2024?</description>
+    </item>
+  </channel>
+</rss>

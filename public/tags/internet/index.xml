@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internet on Bruno De Blasi</title>
+    <link>https://example.org/tags/internet/</link>
+    <description>Recent content in Internet on Bruno De Blasi</description>
+    <image>
+      <title>Bruno De Blasi</title>
+      <url>https://example.org/pexels-photo-4766367.jpeg</url>
+      <link>https://example.org/pexels-photo-4766367.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 07 Jan 2024 12:00:00 -0300</lastBuildDate>
+    <atom:link href="https://example.org/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ainda há espaço para blogs pessoais em 2024?</title>
+      <link>https://example.org/blog/2024/01/ainda-ha-espaco-para-blogs-pessoais-em-2024/</link>
+      <pubDate>Sun, 07 Jan 2024 12:00:00 -0300</pubDate>
+      <guid>https://example.org/blog/2024/01/ainda-ha-espaco-para-blogs-pessoais-em-2024/</guid>
+      <description>Com o avanço das redes sociais, ainda há quem leia blogs em 2024?</description>
+    </item>
+  </channel>
+</rss>

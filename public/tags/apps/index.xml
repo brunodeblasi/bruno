@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apps on Bruno De Blasi</title>
+    <link>https://example.org/tags/apps/</link>
+    <description>Recent content in Apps on Bruno De Blasi</description>
+    <image>
+      <title>Bruno De Blasi</title>
+      <url>https://example.org/pexels-photo-4766367.jpeg</url>
+      <link>https://example.org/pexels-photo-4766367.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pt</language>
+    <lastBuildDate>Sat, 13 Jan 2024 12:00:00 -0300</lastBuildDate>
+    <atom:link href="https://example.org/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O dilema do Obsidian</title>
+      <link>https://example.org/blog/2024/01/o-dilema-do-obsidian/</link>
+      <pubDate>Sat, 13 Jan 2024 12:00:00 -0300</pubDate>
+      <guid>https://example.org/blog/2024/01/o-dilema-do-obsidian/</guid>
+      <description>Obsidian é um app de anotações poderoso, mas há grandes poréns</description>
+    </item>
+  </channel>
+</rss>
